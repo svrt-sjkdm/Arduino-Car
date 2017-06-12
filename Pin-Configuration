@@ -1,0 +1,26 @@
+--------------
+LCD DISPLAY:
+A0 --> D4 
+A1 --> D5
+A2 --> D6
+A3 --> D7
+7 --> RS
+6 --> E  
+--------------
+MOTOR DRIVER:
+
+13 --> IN4 
+12 --> IN3
+11 --> IN2
+10 --> IN1
+
+--------------
+SERVOMOTOR:
+
+5 --> SERVO
+
+--------------
+ULTRASONIC SENSOR:
+
+8 --> ECHO
+9 --> TRIG
