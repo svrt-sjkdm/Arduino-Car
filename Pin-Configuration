@@ -24,3 +24,8 @@ ULTRASONIC SENSOR:
 
 8 --> ECHO
 9 --> TRIG
+
+--------------
+BLUETOOTH:
+
+0(RX) --> TX
